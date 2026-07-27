@@ -134,11 +134,10 @@ The project covers:
       <img
         height="165"
         src="https://github-stats-extended.vercel.app/api?username=fadilirsyadm&show_icons=true&hide_border=true&rank_icon=github&theme=default"
-        alt="Fadil's GitHub statistics"
+        alt="Fadil Irsyad Muhammad's GitHub statistics"
       >
     </picture>
   </a>
-
   <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
       <source
@@ -148,23 +147,10 @@ The project covers:
       <img
         height="165"
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadilirsyadm&layout=compact&hide_border=true&theme=default"
-        alt="Fadil's most-used GitHub languages"
+        alt="Fadil Irsyad Muhammad's most-used GitHub languages"
       >
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=fadilirsyadm&theme=dark&hide_border=true"
-    >
-    <img
-      src="https://streak-stats.demolab.com?user=fadilirsyadm&theme=default&hide_border=true"
-      alt="Fadil's GitHub contribution streak"
-    >
-  </picture>
 </p>
 
 ---

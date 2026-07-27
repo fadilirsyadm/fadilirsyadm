@@ -4,18 +4,6 @@
 Statistics Graduate | Data Science • Data Engineering • Business Intelligence
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fadilirsyadm">
-    <img src="https://img.shields.io/badge/LinkedIn-Fadil%20Irsyad%20Muhammad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:fadilirsyadm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fadilirsyadm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="docs/fadil-irsyad-muhammad-business-intelligence-portfolio.pdf">
-    <img src="https://img.shields.io/badge/Portfolio-View%20PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
 ---
 
 ## About Me

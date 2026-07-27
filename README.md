@@ -122,39 +122,6 @@ The project covers:
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api?username=fadilirsyadm&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-      >
-      <img
-        height="165"
-        src="https://github-stats-extended.vercel.app/api?username=fadilirsyadm&show_icons=true&hide_border=true&rank_icon=github&theme=default"
-        alt="Fadil Irsyad Muhammad's GitHub statistics"
-      >
-    </picture>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=fadilirsyadm&layout=compact&hide_border=true&theme=github_dark"
-      >
-      <img
-        height="165"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadilirsyadm&layout=compact&hide_border=true&theme=default"
-        alt="Fadil Irsyad Muhammad's most-used GitHub languages"
-      >
-    </picture>
-  </a>
-</p>
-
----
-
 ## Let's Connect
 
 I am open to opportunities and collaborations related to **Data Science, Data Engineering, Business Intelligence, and Analytics**.

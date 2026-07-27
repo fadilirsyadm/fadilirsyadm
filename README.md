@@ -113,24 +113,58 @@ The project covers:
 
 ## Selected Achievements
 
-- 🥇 **1st Winner**, Essay Competition at Seminar and Creative Data Competition
+- 🥇 **1st Winner**, Essay Competition at Seminar and Creative Data Competition 2022
 - 🥈 **2nd Winner**, Big Data Competition at Statistics Explore 2022
-- 🏅 **Best Metric Performance**, Big Data Competition at Statistics Explore
+- 🏅 **Best Metric Performance**, Big Data Competition at Statistics Explore 2022
 - 🎯 **Finalist**, Machine Learning Competition at Data Slayer 1.0
-- 🎯 **Finalist**, Dataquest: Objective Quest at Airlangga Technology Week
-- 📈 **Semifinalist**, Data Analysis Competition at National Statistics Challenge
+- 🎯 **Finalist**, Dataquest: Objective Quest at Airlangga Technology Week 2023
+- 📈 **Semifinalist**, Data Analysis Competition at National Statistics Challenge 2022
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fadilirsyadm&show_icons=true&hide_border=true&rank_icon=github" alt="Fadil's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilirsyadm&layout=compact&hide_border=true" alt="Top languages">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api?username=fadilirsyadm&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+      >
+      <img
+        height="165"
+        src="https://github-stats-extended.vercel.app/api?username=fadilirsyadm&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+        alt="Fadil's GitHub statistics"
+      >
+    </picture>
+  </a>
+
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=fadilirsyadm&layout=compact&hide_border=true&theme=github_dark"
+      >
+      <img
+        height="165"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadilirsyadm&layout=compact&hide_border=true&theme=default"
+        alt="Fadil's most-used GitHub languages"
+      >
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadilirsyadm&hide_border=true" alt="GitHub streak">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=fadilirsyadm&theme=dark&hide_border=true"
+    >
+    <img
+      src="https://streak-stats.demolab.com?user=fadilirsyadm&theme=default&hide_border=true"
+      alt="Fadil's GitHub contribution streak"
+    >
+  </picture>
 </p>
 
 ---

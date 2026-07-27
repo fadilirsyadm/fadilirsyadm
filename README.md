@@ -82,9 +82,6 @@ The project covers:
   <a href="https://github.com/fadilirsyadm/sales-data-analytics-dashboard">
     <img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
   </a>
-  <a href="docs/fadil-irsyad-muhammad-business-intelligence-portfolio.pdf">
-    <img src="https://img.shields.io/badge/View-Portfolio%20PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Portfolio">
-  </a>
 </p>
 
 ---

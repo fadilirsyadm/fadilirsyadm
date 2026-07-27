@@ -56,10 +56,10 @@ I am a fresh graduate in **Statistics from Universitas Gadjah Mada** with experi
 
 | Organization | Role | Period |
 |---|---|---|
-| PT Bank Muamalat Indonesia Tbk. | Business Intelligence Analyst Intern — Project-Based Internship | Jul 2026–Present |
-| ID/X Partners | Data Science & Data Engineering Intern — Project-Based Internship | May–Jul 2026 |
-| Bangkit led by Google, GoTo, & Traveloka | Machine Learning Cohort | Feb–Jul 2023 |
-| Badan Pusat Statistik Kota Kediri | Data Operations Intern | Dec 2022–Jan 2023 |
+| PT Bank Muamalat Indonesia Tbk. — Rakamin Academy | Business Intelligence Analyst Intern — Project-Based Internship | Jul 2026–Present |
+| ID/X Partners — Rakamin Academy | Data Science & Data Engineering Intern — Project-Based Internship | May–Jul 2026 |
+| Bangkit led by Google, GoTo, & Traveloka | Machine Learning Cohort — Certified Independent Study Program | Feb–Jul 2023 |
+| Badan Pusat Statistik Kota Kediri | Data Operations Intern — Academic Internship| Dec 2022–Jan 2023 |
 | Diskominfo Kabupaten Sleman & Department of Mathematics UGM | Enumerator Intern | Sep–Nov 2022 |
 
 ---
